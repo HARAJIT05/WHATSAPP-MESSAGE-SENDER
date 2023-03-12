@@ -1,0 +1,6 @@
+
+WHATSAPP MESSAGE SENDER USING PYTHON pywhatkit MODULE 
+TO USE THIS CODE REQUIRED PYTHON 3.10+ AND MODULE NAMED pywhatkit 
+use command pip install pywhatkit.
+
+
