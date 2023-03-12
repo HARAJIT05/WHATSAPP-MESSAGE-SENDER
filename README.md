@@ -20,8 +20,6 @@ pip Packages:
 
    pip install
 
-+ +123456789- enter the number on which you want to send message.
-+ "ENTER A MESSAGE" REPLACER IT WHITH YOUR MESSAGE.
-
+MAY NOW WOEK IN WINDOWS
 ## License
 MIT © I2rys
