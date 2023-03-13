@@ -22,6 +22,6 @@ pip Packages
 
    pip install
 
-MAY NOW WOEK IN WINDOWS
+MAY NOW WORK IN WINDOWS
 ## License
 MIT © I2rys
