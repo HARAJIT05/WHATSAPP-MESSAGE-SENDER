@@ -12,11 +12,11 @@ Github:
 
     git clone https://github.com/HARAJIT05/WHATSAPP-MESSAGE-SENDER
     cd WHATSAPP-MESSAGE-SENDER
-    python3 code.py
-
-pip Packages:
-
     pip install pywhatkit
+    python code.py
+
+pip Packages
+        pywhatkit 
     
 ## Usage
 
