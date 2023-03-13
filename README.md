@@ -24,4 +24,4 @@ pip Packages
 
 MAY NOW WORK IN WINDOWS
 ## License
-MIT © I2rys
+MIT ©HARAJIT
