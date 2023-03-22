@@ -15,13 +15,6 @@ Github:
     pip install pywhatkit
     python code.py
 
-pip Packages
-        pywhatkit 
-    
-## Usage
 
-   pip install
-
-MAY NOT WORK IN WINDOWS
-## License
+#Licence
 MIT ©HARAJIT
