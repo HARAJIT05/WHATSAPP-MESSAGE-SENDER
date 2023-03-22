@@ -5,4 +5,3 @@ message = input("Enter the message: ")
 hour = int(input("Enter the Hour in 24 hour format: "))
 minute = int(input("Enter the Minute: "))
 pywhatkit.sendwhatmsg(number, message, hour, minute)
-#owner:@Harajit
