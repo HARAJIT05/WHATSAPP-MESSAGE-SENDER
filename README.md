@@ -22,6 +22,6 @@ pip Packages
 
    pip install
 
-MAY NOW WORK IN WINDOWS
+MAY NOT WORK IN WINDOWS
 ## License
 MIT ©HARAJIT
