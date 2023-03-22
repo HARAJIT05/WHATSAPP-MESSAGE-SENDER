@@ -10,7 +10,7 @@
 ## Need python 3.10+ to work properly
 ## Installation
 
-Github:
+Run the following Code in terminal:
 
     git clone https://github.com/HARAJIT05/WHATSAPP-MESSAGE-SENDER
     cd WHATSAPP-MESSAGE-SENDER
